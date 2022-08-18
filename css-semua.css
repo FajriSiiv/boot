@@ -1,0 +1,8 @@
+* {
+  transition: 0.2s all;
+}
+
+.section-utama {
+  height: 97vh;
+  margin-top: 3vh;
+}
